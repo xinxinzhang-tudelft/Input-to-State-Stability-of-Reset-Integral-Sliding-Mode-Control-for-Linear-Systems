@@ -3,7 +3,7 @@
 This repository contains supplementary materials for the paper:
 
 **“Input-to-State Stability of Reset-Integral Sliding Mode Control for Linear Systems”**
-*Xinxin Zhang (Member, IEEE), Leonid Freidovich (Senior Member, IEEE)*
+*Xinxin Zhang, Leonid Freidovich*
 
 > The arXiv link will be added once available.
 
