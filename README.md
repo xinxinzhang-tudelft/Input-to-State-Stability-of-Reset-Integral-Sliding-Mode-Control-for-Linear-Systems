@@ -15,12 +15,12 @@ This repository contains supplementary materials for the paper:
 
 This document provides a numerical illustration of the **unperturbed regulation case** discussed in *Remark 8* of the paper. The purpose is to demonstrate **Global Asymptotic Stability (GAS)** of the proposed control method.
 
-* A simulation over a duration of **300 seconds** is presented.
+* A simulation over a duration of **600 seconds** is presented.
 
 * At the end of the simulation, the state norm reaches:
 
   [
-  |e_s| = 3.0375 \times 10^{-11}
+  |e_s| = 1.00121 \times 10^{-16}
   ]
 
 * The state norm continues to decrease, empirically confirming **asymptotic convergence**.
