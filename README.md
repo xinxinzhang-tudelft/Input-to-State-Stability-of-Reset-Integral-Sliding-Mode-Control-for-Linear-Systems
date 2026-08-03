@@ -20,7 +20,7 @@ This document provides a numerical illustration of the **unperturbed regulation 
 * At the end of the simulation, the state norm reaches:
 
   [
-  $|e_s| = 1.00121 * 10^{-16}$
+  $|e_s| = 1.00121 \times 10^{-16}$
   ]
 
 * The state norm continues to decrease, empirically confirming **asymptotic convergence**.
